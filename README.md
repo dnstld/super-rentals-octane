@@ -2,7 +2,7 @@
 
 Ember octane **[tutorial](https://guides.emberjs.com/release/tutorial/part-1/)**
 
-![Banner freeCodeCamp Brasília](https://raw.githubusercontent.com/dnstld/super-rentals-octane/master/public/assets/images/super-rentals.gif)
+![Super Rentals](https://media.giphy.com/media/UTGAeFYWfRaZC0nEXC/giphy.gif)
 
 ## Prerequisites
 
