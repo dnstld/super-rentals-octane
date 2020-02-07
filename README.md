@@ -1,7 +1,8 @@
 # super-rentals-octane
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Ember octane **[tutorial](https://guides.emberjs.com/release/tutorial/part-1/)**
+
+![Banner freeCodeCamp Brasília](https://raw.githubusercontent.com/dnstld/super-rentals-octane/master/public/assets/images/super-rentals.gif)
 
 ## Prerequisites
 
